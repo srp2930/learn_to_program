@@ -1,6 +1,3 @@
-# your code here
-
-#ok
 
 birthdays = {} #hash key to look up birthdays and dates
 birtharray = []
@@ -36,5 +33,3 @@ else
       puts "Next birthday will be #{date[0..5]} 2017"
     end
   end
-
-
